@@ -1,0 +1,130 @@
+*{
+    margin:0;
+    padding:0;
+  }
+  
+  body{
+    background-color:hsl(217, 54%, 11%);
+    display:block;
+    
+  }
+  
+  #card{
+    width:350px;
+    height:570px;
+    background-color:hsl(216, 50%, 16%);
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:.75em;
+    display:absolute;  
+    border-radius:15px;
+  }
+  
+  .pic{
+    max-width:100%;
+    height:auto;
+    display:block;
+    margin-left:1.5em;
+    margin-right:1.5em;
+    padding-top:1.5em; 
+    
+  }
+  
+  img{
+    max-width:100%;
+    height:auto;
+    border-radius:5px;
+  }
+  
+  h1{
+    color:white;
+    padding-top:1rem;
+    padding-left:1.5rem;
+    font-family:outfit;
+    font-size:18px;
+    font-weight: 600; 
+    
+  }
+  
+  .a{
+    color:hsl(215, 51%, 70%);
+    font-family:outfit;
+    padding:1.5rem;
+    font-weight:300;
+  }
+  
+  .price{
+    display:flex;
+    margin-bottom:1em;
+    
+  }
+  .b{
+    color:hsl(178, 100%, 50%);
+    margin-right:auto;
+    padding-left:1.5rem;
+    font-family:outfit;
+    font-weight:400;
+    
+  }
+
+  .c{
+    color:hsl(215, 51%, 70%);
+    padding-right:2rem;
+    font-family:outfit;
+    font-weight:400;
+  }
+
+  
+  .d{
+    color:hsl(215, 51%, 70%);
+    font-family:outfit;
+    font-weight:400;
+    margin-top:.5rem;
+    padding-left: .7rem;
+  }
+   
+  .one{
+    padding-right: .5rem;
+    margin-bottom: -0.2rem;
+
+  }
+
+  .two{
+    padding-left: 1rem;
+    margin-bottom: -0.2rem;
+
+  }
+
+  .three{
+    max-width: 100%;
+    height:auto;
+
+  }
+  
+  span{
+    color:white;
+    font-weight:550;
+  }
+  
+  .user{
+    display:flex;
+    height:35px;
+    margin-left:1.7rem;
+    margin-top:.5rem;
+    
+  }
+
+  hr{
+    background-color:hsl(215, 51%, 70%);
+    height:1px;
+    max-width:85%;
+    margin-left:auto;
+    margin-right:auto;
+    border:none;
+    
+  }
+
+  .attribution{
+      margin-top: 1rem;
+      color:hsl(0, 0%, 100%);
+  }
